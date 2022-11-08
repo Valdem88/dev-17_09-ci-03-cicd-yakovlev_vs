@@ -193,7 +193,7 @@ while (index < 10):
 
 ![](pic/Nexus_upload.jpg)
 
-- [maven-metadata.xml](https://github.com/Valdem88/dev-17_ci-01-intro-yakovlev_vs/blob/main/workflow/Bug%20workflow.xml)
+- [maven-metadata.xml](https://github.com/Valdem88/dev-17_09-ci-03-cicd-yakovlev_vs/blob/main/maven-metadata/maven-metadata.xml)
 
 ### Знакомство с Maven
 
@@ -260,7 +260,7 @@ total 12
 -rw-r--r-- 1 root root 175 Nov  8 20:36 _remote.repositories
 ```
 
-- [pom.xml](https://github.com/Valdem88/dev-17_ci-01-intro-yakovlev_vs/blob/main/workflow/Bug%20workflow.xml)
+- [pom.xml](https://github.com/Valdem88/dev-17_09-ci-03-cicd-yakovlev_vs/blob/main/pom/pom.xml)
 
 ---
 
